@@ -1,0 +1,2 @@
+# JSF-ConsultingInventoryData_JPA-PostgreSQL
+Aplicación web desarrollada con JSF puro y JPA, que implementa funcionalidades de gestión de productos, inventario y reportes de ventas sobre una base de datos PostgreSQL. Ideal para demostración de habilidades en Java web clásico y acceso a datos.
